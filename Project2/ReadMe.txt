@@ -1,1 +1,4 @@
-
+clean_compare_visualization.pdf 展示了无噪声情况下不同方法点云提取的对比
+noisy_compare_visualization.pdf 展示了有噪声情况下不同方法点云提取的对比
+network.pdf   为我们方法的网络结构
+pipleline.pdf 为我们方法的流程图
